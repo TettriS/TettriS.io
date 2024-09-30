@@ -1,7 +1,7 @@
 {
   "permissions": [ "activeTab" ],
   "short_name": "VSEM-SPASATb-PWA",
-  "name": "https://amorozovaltcraft.github.io",
+  "name": "https://tettris.github.io/TettriS.io",
   "icons": [
     {
       "src": "favicon.ico",
