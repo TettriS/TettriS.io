@@ -1,7 +1,7 @@
 {
   "permissions": [ "activeTab" ],
   "short_name": "VSEM-SPASATb-PWA",
-  "name": "https://tettris.github.io/TettriS.io",
+  "name": "https://tettris.github.io/",
   "icons": [
     {
       "src": "favicon.ico",
